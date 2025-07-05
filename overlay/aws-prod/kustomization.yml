@@ -14,7 +14,7 @@ patches:
       name: istory-app-deploy
 
 images:
-  - name: dangtong76/istory
+  - name: soypung/istory
     newTag: latest
 
 configMapGenerator:
